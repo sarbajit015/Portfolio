@@ -1,0 +1,33 @@
+*{
+    background-color: black;
+   }
+
+.logo{
+    color: rgb(253, 253, 253);
+    font-size: 35px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+span{
+    color: #f9004d;
+}
+
+p{
+    color: aliceblue;
+    width: 850px;
+    justify-content: right;
+}
+
+h2{
+    color: #9678e6;
+}
+
+
+
+img {
+    float: right; 
+    margin-right: 70px;
+    margin-left: 20px; 
+    margin-bottom: 20px; 
+}
